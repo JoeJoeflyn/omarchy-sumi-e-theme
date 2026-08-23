@@ -23,7 +23,7 @@ An ink-wash desktop theme for [Omarchy](https://omarchy.org/). Deep **sumi black
 
 - `colors.toml` — Master semantic palette driving all Omarchy native templates.
 - `hyprland.lua` — Solid red-seal active window borders (`#C4A882`) with rounded corners and soft shadows.
-- `backgrounds/` — 6 curated ink wash and enso wallpapers (`1.jpg` - `6.jpg`) featuring pine trees by Hasegawa Tohaku, evening landscapes from the Muromachi period, and ink wash scenes by Soga Shohaku, Sesson Shukei, and Kagaku Murakami.
+- `backgrounds/` — 6 curated ink wash and enso wallpapers (`1.jpg` - `6.jpg`) featuring pine trees by Hasegawa Tohaku, cypress trees by Kano Eitoku, snow mountains by Shiokawa Bunrin, cranes by Kawai Gyokudo, and sunset landscapes by Kagaku Murakami.
 - `icons.theme` — Set to `Yaru-red` for matching folder and file manager icons.
 - `unlock.png` & `preview-unlock.png` — Full-screen Hasegawa Tohaku Pine Trees (right screen) ink wash painting for Plymouth boot and lock screens.
 - `preview.png` — 1920x1080 theme switcher preview with live fastfetch and btop layout.
