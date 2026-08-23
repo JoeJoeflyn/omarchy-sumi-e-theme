@@ -1,6 +1,6 @@
 mode = "dark"
 
-accent = "#B83A2B"
+accent = "#C4A882"
 selection = "#2A2520"
 muted = "#6B6258"
 
@@ -15,20 +15,20 @@ light_foreground = "#F2EEE6"
 bright_foreground = "#FFFFFF"
 
 # ink wash family — black, white, grey ramp
-magenta = "#B83A2B"
+magenta = "#C4A882"
 cyan = "#8A8078"
 blue = "#7A7068"
 green = "#6B6258"
 
 # warm contrast — sumi ink has warm undertones
-red = "#B83A2B"
+red = "#C4A882"
 yellow = "#C4A882"
 orange = "#A87858"
 brown = "#4A3A2E"
 
-bright_magenta = "#D04A3B"
+bright_magenta = "#D4B892"
 bright_cyan = "#A89E96"
 bright_blue = "#968C84"
 bright_green = "#8A8078"
-bright_red = "#D04A3B"
+bright_red = "#D4B892"
 bright_yellow = "#D4B892"

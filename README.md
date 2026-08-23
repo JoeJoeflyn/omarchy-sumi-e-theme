@@ -10,7 +10,7 @@ An ink-wash desktop theme for [Omarchy](https://omarchy.org/). Deep **sumi black
 
 | Role | Hex | Description |
 | :--- | :--- | :--- |
-| **Accent** | `#B83A2B` | Red Seal (Shu) |
+| **Accent** | `#C4A882` | Aged Paper |
 | **Background** | `#1A1714` | Sumi Black |
 | **Foreground** | `#E8E0D4` | Rice Paper |
 | **Selection** | `#2A2520` | Ink Wash |
@@ -22,7 +22,7 @@ An ink-wash desktop theme for [Omarchy](https://omarchy.org/). Deep **sumi black
 ## 📦 What's Included
 
 - `colors.toml` — Master semantic palette driving all Omarchy native templates.
-- `hyprland.lua` — Solid red-seal active window borders (`#B83A2B`) with rounded corners and soft shadows.
+- `hyprland.lua` — Solid red-seal active window borders (`#C4A882`) with rounded corners and soft shadows.
 - `backgrounds/` — 6 curated ink wash and enso wallpapers (`1.jpg` - `6.jpg`) featuring pine trees by Hasegawa Tohaku, evening landscapes from the Muromachi period, and ink wash scenes by Soga Shohaku, Sesson Shukei, and Kagaku Murakami.
 - `icons.theme` — Set to `Yaru-red` for matching folder and file manager icons.
 - `unlock.png` & `preview-unlock.png` — Full-screen Hasegawa Tohaku Pine Trees (right screen) ink wash painting for Plymouth boot and lock screens.
