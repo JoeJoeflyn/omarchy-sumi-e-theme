@@ -23,9 +23,9 @@ An ink-wash desktop theme for [Omarchy](https://omarchy.org/). Deep **sumi black
 
 - `colors.toml` — Master semantic palette driving all Omarchy native templates.
 - `hyprland.lua` — Solid red-seal active window borders (`#C4A882`) with rounded corners and soft shadows.
-- `backgrounds/` — 6 curated ink wash and enso wallpapers (`1.jpg` - `6.jpg`) featuring snowy landscape from the Metropolitan Museum of Art, gibbons in a landscape by Sesson Shukei, cypress trees by Kano Eitoku, snow mountains by Shiokawa Bunrin, misty mountains by Gao Ranhui, and sunset landscapes by Kagaku Murakami.
+- `backgrounds/` — 6 curated ink wash and enso wallpapers (`1.jpg` - `6.jpg`) featuring ink wash landscape from the Cleveland Museum of Art, gibbons in a landscape by Sesson Shukei, cypress trees by Kano Eitoku, snow mountains by Shiokawa Bunrin, misty mountains by Gao Ranhui, and sunset landscapes by Kagaku Murakami.
 - `icons.theme` — Set to `Yaru-red` for matching folder and file manager icons.
-- `unlock.png` & `preview-unlock.png` — Full-screen snowy landscape ink wash painting from the MET for Plymouth boot and lock screens.
+- `unlock.png` & `preview-unlock.png` — Full-screen ink wash landscape painting from the Cleveland Museum of Art for Plymouth boot and lock screens.
 - `preview.png` — 1920x1080 theme switcher preview with live fastfetch and btop layout.
 - `btop.theme` — Color-matched btop process monitor theme.
 - `neovim.lua` — Aether.nvim colorscheme tuned to the sumi-e palette.
