@@ -1,4 +1,4 @@
--- Sumi-e — Hyprland decoration: ink wash, red seal accent borders
+-- Sumi-e — Hyprland decoration: ink wash, aged paper accent borders
 
 hl.config({
   general = {
