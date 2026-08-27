@@ -1,0 +1,93 @@
+# Omarchy Quattro surfaces for Sumi-e.
+
+[bar]
+background = "#1A1714"
+background-alpha = 1.0
+text = "#E8E0D4"
+active = "#C4A882"
+scale-with-font = true
+
+[hyprland]
+active-border = "#C4A882"
+active-border-foreground = "#E8E0D4"
+
+[popups]
+background = "#1A1714"
+background-alpha = 1.0
+text = "#E8E0D4"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+
+[tooltip]
+background = "#1A1714"
+background-alpha = 0.97
+text = "#E8E0D4"
+border = "hyprland.active-border-foreground"
+border-alpha = 1.0
+
+[notifications]
+background = "#1A1714"
+background-alpha = 1.0
+text = "#E8E0D4"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+countdown = "#C4A882"
+
+[launcher]
+background = "#1A1714"
+background-alpha = 0.95
+text = "#E8E0D4"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+scrim = "#1A1714"
+scrim-alpha = 0.5
+selected-background = "#E8E0D4"
+selected-background-alpha = 0.08
+selected-text = "#C4A882"
+selected-border = "hyprland.active-border"
+selected-border-alpha = 0.25
+
+[menu]
+background = "#1A1714"
+background-alpha = 1.0
+text = "#E8E0D4"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+scrim = "#1A1714"
+scrim-alpha = 0.5
+selected-background = "#E8E0D4"
+selected-background-alpha = 0.08
+selected-text = "#C4A882"
+selected-border = "hyprland.active-border"
+selected-border-alpha = 0.25
+
+[polkit]
+background = "#1A1714"
+background-alpha = 1.0
+text = "#E8E0D4"
+text-error = "#C4A882"
+border = "hyprland.active-border"
+border-error = "#C4A882"
+border-alpha = 1.0
+border-width = 2
+scrim = "#1A1714"
+scrim-alpha = 0.5
+accent = "#C4A882"
+
+[lock]
+background = "#1A1714"
+background-alpha = 0.8
+text = "#E8E0D4"
+placeholder = "#E8E0D4B3"
+text-error = "#C4A882"
+border = "hyprland.active-border"
+border-active = "hyprland.active-border"
+border-error = "#C4A882"
+border-alpha = 1.0
+border-width = 2
+selection = "#C4A882"
+selection-alpha = 0.45
